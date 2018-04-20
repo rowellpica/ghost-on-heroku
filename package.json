@@ -1,6 +1,6 @@
 {
   "name": "ghost-on-heroku",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Just a blogging platform on Heroku.",
   "license": "MIT",
   "repository": {
