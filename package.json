@@ -1,5 +1,6 @@
 {
   "name": "ghost-on-heroku",
+  "version": "1.0.2",
   "description": "Just a blogging platform on Heroku.",
   "license": "MIT",
   "repository": {
@@ -8,7 +9,6 @@
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,
-  "version": "1.0.1",
   "dependencies": {
     "casper": "github:tryghost/Casper#2.1.0",
     "ghost": "^1.8.0",
